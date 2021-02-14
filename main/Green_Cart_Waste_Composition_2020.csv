@@ -1,0 +1,53 @@
+Material Category,Material Subcategory,Material Diversion Potential,Proper Disposal Location,Weight %
+FOOD WASTE,Unbagged Food Waste,Compostable,Green Cart,0.03
+FOOD WASTE,Food Waste in Compostable Bags (Paper or Plastic),Compostable,Green Cart,0.39
+FOOD WASTE,Food Waste in Non-Compostable Bags,Compostable,Black Cart,0.03
+FOOD WASTE,Food Waste in Packaging,Compostable,Black Cart,0.01
+YARD WASTE,Unbagged Grass Clippings,Compostable,Green Cart,0.16
+YARD WASTE,Grass Clippings in Compostable Bags (Paper or Plastic),Compostable,Green Cart,0.02
+YARD WASTE,Grass Clippings in Non Compostable Bags or Packaging,Compostable,Black Cart,0
+YARD WASTE,"Unbagged Leaves, Plants (including pumpkins and tree fruits) - Greens",Compostable,Green Cart,0.08
+YARD WASTE,Unbagged Leaves and Plants - Browns,Compostable,Green Cart,0.06
+YARD WASTE,"Leaves, Plants (including pumpkins and fruit trees) in Compostable Bags (Paper or Plastic) - Greens",Compostable,Green Cart,0.01
+YARD WASTE,"Leaves, Plants (including pumpkins and fruit trees) in Non Compostable Bags or Packaging - Greens",Compostable,Black Cart,0
+YARD WASTE,"Leaves, Plants (including pumpkins and fruit trees) in Compostable Bags (Paper or Plastic) - Browns",Compostable,Green Cart,0.01
+YARD WASTE,"Leaves, Plants (including pumpkins and fruit trees) in Non Compostable Bags or Packaging - Browns",Compostable,Black Cart,0
+YARD WASTE,Unbagged Sod,Compostable,Green Cart,0.02
+YARD WASTE,Sod in Compostable Bags (Paper or Plastic),Compostable,Green Cart,0
+YARD WASTE,Sod in Non-Compostable Bags or Packaging,Compostable,Black Cart,0
+YARD WASTE,Woody waste<150 mm,Compostable,Green Cart,0.01
+YARD WASTE,Woody waste>150 mm,Compostable,Green Cart,0.03
+YARD WASTE,Other Yard Waste,Compostable,Green Cart,0
+OTHER ORGANICS,Unbagged Animal Waste,Compostable,Green Cart,0.01
+OTHER ORGANICS,Animal Waste in Compostable Bags (Paper or Plastic),Compostable,Green Cart,0.04
+OTHER ORGANICS,Animal Waste in Non-Compostable Bags or Packaging,Compostable,Black Cart,0.01
+OTHER ORGANICS,Pet Remains and Large Animal Carcasses,Compostable,Black Cart,0
+OTHER COMPOSTABLES,"Compostable Plastic Cups, Plates, Utensils and Containers",Compostable,Potentially Divertible,0
+OTHER COMPOSTABLES,Compostable Bags (loose),Compostable,Green Cart,0
+OTHER COMPOSTABLES,Other Compostable Items (plastics),Compostable,Potentially Divertible,0
+PAPER AND PAPER PRODUCTS,Soiled Papers and Cardboard,Compostable,Green Cart,0.03
+PAPER AND PAPER PRODUCTS,"Non-Compostable Paper (Wax Paper, Carbon Paper, Waxed Cardboard, Books, etc).",Garbage,Black Cart,0
+PAPER AND PAPER PRODUCTS,Paper Coffee Cups and Fountain Pop Cups,Recyclable,Blue Cart,0
+RECYCLABLES,Paper,Recyclable,Blue Cart,0
+RECYCLABLES,"Plastics, excluding loose plastic bags",Recyclable,Blue Cart,0
+RECYCLABLES,Glass,Recyclable,Blue Cart,0
+RECYCLABLES,Metal,Recyclable,Blue Cart,0
+RECYCLABLES,Textiles,Recyclable,Blue Cart,0
+RECYCLABLES,Plastic Bags (loose) and plastic film,Recyclable,Blue Cart,0
+RECYCLABLES,Other Recyclables,Recyclable,Blue Cart,0
+"SOIL, ROCK AND FINES",Soil,Compostable,Green Cart,0.03
+"SOIL, ROCK AND FINES",Rock and Fines,Garbage,Black Cart,0
+GARBAGE,Diapers and Sanitary Products,Garbage,Black Cart,0
+GARBAGE,Garbage in Plastic Bags,Garbage,Black Cart,0
+GARBAGE,Non-Recyclable Miscellaneous Plastic,Garbage,Black Cart,0
+GARBAGE,Other Black Cart Waste,Garbage,Black Cart,0
+CONSTRUCTION AND DEMOLITION WASTE,Treated/Finished Wood,Garbage,Black Cart,0
+CONSTRUCTION AND DEMOLITION WASTE,Untreated/Unfinished/Dimensional Wood,Compostable,Green Cart,0
+CONSTRUCTION AND DEMOLITION WASTE,Other C & D Waste,Garbage,Black Cart,0
+OTHER DIVERTABLE ITEMS,"Automotive Fluids, Lubricants, Filters and Containers",Recyclable,Other Diversion Programs,0
+OTHER DIVERTABLE ITEMS,Household Hazardous Waste (HHW),Recyclable,Other Diversion Programs,0
+OTHER DIVERTABLE ITEMS,Electronics and Household Appliances,Recyclable,Other Diversion Programs,0
+OTHER DIVERTABLE ITEMS,Tires,Recyclable,Other Diversion Programs,0
+OTHER HOUSEHOLD BULKY ITEMS,Furniture,Garbage,Black Cart,0
+OTHER HOUSEHOLD BULKY ITEMS,Carpet and Underlays,Garbage,Black Cart,0
+OTHER HOUSEHOLD BULKY ITEMS,Other Bulky Items,Garbage,Black Cart,0
