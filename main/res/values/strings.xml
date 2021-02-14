@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CityConnect</string>
+    <string name="hello_username">Hello, Username</string>
+    <string name="tasks">Tasks</string>
+    <string name="currently">Currently:</string>
+    <string name="you_have_2_ongoing_tasks">You have 2 ongoing tasks</string>
+</resources>
